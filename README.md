@@ -1,5 +1,4 @@
-Projeto Flask com UV
-Orientações práticas para inicializar, configurar e executar a aplicação web Flask utilizando o uv como gerenciador de pacotes e ambientes virtuais.
+Projeto Flask com uv
 
 1. Pré-requisitos
 Python: Versão 3.10 ou superior instalada no sistema.
